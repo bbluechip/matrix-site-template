@@ -1,0 +1,142 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    background-color: #F9F9F9;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.bottom-div{
+    margin: 100px auto;
+    padding-right: 20px;
+}
+.headings-3{
+    text-align: left;
+    
+}
+.bottom-div-pics-1{
+    width: 15%;
+    float:left;
+    margin-left:30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-2{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-3{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-4{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-5{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-6{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-7{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-8{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-9{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-10{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-11{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-12{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.bottom-div-pics-13{
+    width: 15%;
+    float:left;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.horizontal{
+    border-top: 5px dotted;
+    border-bottom: none;
+    border-left:none;
+    border-right:none;
+    width: 15%;
+    color: grey;
+    margin: 100px auto;
+}
+.links{
+    padding:10px;
+    border: solid black;
+    border-radius: 10px;
+    text-decoration:none;
+    color: black;
+}
+.links:hover{
+    background-color: #990000;
+    color: white;
+
+}
+.middle-div{
+    margin: 100px auto;
+}
+.middle-div-p{
+    width: 50%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.pic-p{
+    width: 30%;
+    margin: auto;
+}
+.neo{
+    position: relative;
+    margin:auto;
+}
+.Top-Div{
+    height:auto;
+    padding-top: 100px;
+  }
+
+  /*Headings*/
+  .heading-1{
+      font-family: 'Lobster', cursive;
+      font-size: 4rem;
+  }
